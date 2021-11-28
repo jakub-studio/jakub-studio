@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! Welcome to my profile 👋
+<p align="center">
+  <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jakuski&count_private=true&show_icons=true&theme=react"/>
+</p>
 
 <!--
 **jakuski/jakuski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
