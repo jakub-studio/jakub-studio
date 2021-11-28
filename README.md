@@ -1,6 +1,7 @@
 ### Hi! Welcome to my profile 👋
 <p align="center">
   <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jakuski&count_private=true&show_icons=true&theme=react"/>
+  <!-- See https://github.com/anuraghazra/github-readme-stats -->
 </p>
 
 <!--
