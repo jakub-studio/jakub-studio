@@ -1,8 +1,10 @@
 ### Hi! Welcome to my profile 👋
 <p align="center">
-  <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jakuski&count_private=true&show_icons=true&theme=react"/>
-  <!-- See https://github.com/anuraghazra/github-readme-stats -->
+  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jakuski&count_private=true&show_icons=true&theme=react"/>
+  <img alt="My most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakuski&langs_count=4&theme=react&layout=compact"/>
 </p>
+
+<!-- See https://github.com/anuraghazra/github-readme-stats -->
 
 <!--
 **jakuski/jakuski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
