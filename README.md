@@ -1,15 +1,16 @@
 ## Hello world, I'm Jakub! Welcome to my profile 👋
 
 <div id="badges" align="center">
+  <a href="https://jakub.studio">
+    <img src="https://img.shields.io/badge/www.jakub.studio-informational?style=flat" alt="Website Bagde"/>
+  </a>
   <a href="https://example.com">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://example.com">
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://jakub.studio">
-    <img src="https://img.shields.io/badge/website-jakub.studio-important?style=flat" alt="Website Bagde"/>
-  </a>
+  
 </div>
 
 **About me**
