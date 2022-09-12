@@ -1,4 +1,4 @@
-## Hello world, I'm Jakub! Welcome to my profile 👋
+<h1>Hello world, I'm Jakub! UI/UX designer and developer<br/><sub>Welcome to my profile 👋</sub></h1>
 
 <div id="badges" align="center">
   <a href="https://jakub.studio">
