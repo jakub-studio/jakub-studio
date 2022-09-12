@@ -1,4 +1,21 @@
-### Hi! Welcome to my profile 👋
+## Hello world, I'm Jakub! Welcome to my profile 👋
+
+<div id="badges" align="center">
+  <a href="https://example.com">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://example.com">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://jakub.studio">
+    <img src="https://img.shields.io/badge/website-jakub.studio-important?style=flat" alt="Website Bagde"/>
+  </a>
+</div>
+
+**About me**
+- Pronouns: he/him
+
+
 <p align="center">
   <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jakuski&count_private=true&show_icons=true&theme=react"/>
   <img alt="My Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=jakuski&theme=react"/>
