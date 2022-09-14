@@ -26,7 +26,7 @@
 
 <p align="center">
   <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jakuski&count_private=true&show_icons=true&theme=react"/>
-  <img alt="My Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=jakuski&theme=react"/>
+  <img alt="My most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakuski&langs_count=4&theme=react&layout=compact"/>
 </p>
 
 
