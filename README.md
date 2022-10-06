@@ -2,31 +2,27 @@
 
 <div id="badges" align="center">
   <a href="https://jakub.studio">
-    <img src="https://img.shields.io/badge/www.jakub.studio-informational?style=flat" alt="Website Bagde"/>
+    <img src="https://img.shields.io/badge/www.jakub.studio-informational?style=flat" alt="Blue badge saying 'jakub.studio'"/>
   </a>
-  <a href="https://example.com">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/jakub-staniszewski/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=?style=flat&logo=linkedin&logoColor=white" alt="Blue badge with LinkedIn logo and text saying 'LinkedIn'"/>
   </a>
-  <a href="https://example.com">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://twitter.com/jakubstudio_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Blue badge with Twitter logo and text saying 'Twitter'"/>
   </a>
   
 </div>
 
 **About me**
-- Pronouns: he/him
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning SwiftUI
+- 💬 Ask me about React.js, TypeScript or JavaScript
+- 📫 How to reach me: See my [contact page](https://jakub.studio/contact).
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I still collect hot wheels at my big age 🏎️🏎️🏎️
 
-<p align="center">
-  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jakuski&count_private=true&show_icons=true&theme=react"/>
-  <img alt="My most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakuski&langs_count=4&theme=react&layout=compact"/>
+<p align="left">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jakuski&count_private=true&show_icons=true&theme=react"/>
 </p>
 
 
