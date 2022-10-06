@@ -14,7 +14,7 @@
 </div>
 
 **About me**
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my website (repo currently private)
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about React.js, TypeScript or JavaScript
 - 📫 How to reach me: See my [contact page](https://jakub.studio/contact).
