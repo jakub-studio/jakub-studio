@@ -22,7 +22,7 @@
 - ⚡ Fun fact: I still collect hot wheels at my big age 🏎️🏎️🏎️
 
 <p align="left">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jakuski&count_private=true&show_icons=true&theme=react"/>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jakub-studio&count_private=true&show_icons=true&theme=react"/>
 </p>
 
 
