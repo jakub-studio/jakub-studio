@@ -14,9 +14,9 @@
 </div>
 
 **About me**
-- 🔭 I’m currently working on my website (repo currently private)
-- 🌱 I’m currently learning SwiftUI
-- 💬 Ask me about React.js, TypeScript or JavaScript
+- 🔭 I’m currently working on my [website](https://jakub.studio). [[repo](https://github.com/jakub-studio/website)]
+- 🌱 I’m currently learning SwiftUI and Rust.
+- 💬 Ask me about React.js, TypeScript or JavaScript, I'm pretty good at them!
 - 📫 How to reach me: See my [contact page](https://jakub.studio/contact).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I still collect hot wheels at my big age 🏎️🏎️🏎️
