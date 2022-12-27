@@ -1,6 +1,6 @@
-<h1>Hello world, I'm Jakub! UI/UX designer and developer<br/><sub>Welcome to my profile 👋</sub></h1>
+<h1>Hello world, I'm Jakub! I'm a digital designer and developer.<br/><sub>Welcome to my profile 👋</sub></h1>
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://jakub.studio">
     <img src="https://img.shields.io/badge/www.jakub.studio-informational?style=flat" alt="Blue badge saying 'jakub.studio'"/>
   </a>
