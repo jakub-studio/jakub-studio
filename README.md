@@ -1,17 +1,4 @@
-<h1>Hello world, I'm Jakub! I'm a digital designer and developer.<br/><sub>Welcome to my profile 👋</sub></h1>
-
-<div id="badges" align="left">
-  <a href="https://jakub.studio">
-    <img src="https://img.shields.io/badge/www.jakub.studio-informational?style=flat" alt="Blue badge saying 'jakub.studio'"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jakub-staniszewski/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=?style=flat&logo=linkedin&logoColor=white" alt="Blue badge with LinkedIn logo and text saying 'LinkedIn'"/>
-  </a>
-  <a href="https://twitter.com/jakubstudio_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Blue badge with Twitter logo and text saying 'Twitter'"/>
-  </a>
-  
-</div>
+<h1>Hello world, I'm Jakub! I'm a digital designer and developer.<br/></h1>
 
 **About me**
 - 🔭 I’m currently working on my [website](https://jakub.studio). [[repo](https://github.com/jakub-studio/website)]
