@@ -1,6 +1,4 @@
-<h1>Hello world, I'm Jakub! I'm a digital designer and developer.<br/></h1>
-
-**About me**
+#### About me
 - 🔭 I’m currently working on my [website](https://jakub.studio). [[repo](https://github.com/jakub-studio/website)]
 - 🌱 I’m currently learning SwiftUI and Rust.
 - 💬 Ask me about React.js, TypeScript or JavaScript, I'm pretty good at them!
